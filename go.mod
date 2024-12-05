@@ -1,4 +1,4 @@
-module Skillfactory/kafka_wrap
+module github.com/kafka_wrap
 
 go 1.22.3
 

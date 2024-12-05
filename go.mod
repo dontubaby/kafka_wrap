@@ -1,4 +1,4 @@
-module dontubaby/kafka_wrap
+module github.com/dontubaby/kafka_wrap
 
 go 1.22.3
 
